@@ -1,7 +1,7 @@
 #                             GooGle TCP BBr网络加速脚本
-使用方法 
+本脚本适用于Centos6，使用方法 
 
-    wget --no-check-certificate https://github.com/52fancy/GooGle-BBR/raw/master/BBR.sh && sh BBR.sh
+    wget --no-check-certificate https://github.com/waitusz/GooGle-BBR/raw/master/BBR.sh && sh BBR.sh
 
 
 
